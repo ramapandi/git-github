@@ -16,3 +16,5 @@ ram is a gd boy
 =======
 11git merge firstbranch
 >>>>>>> master
+ssh-keygen
+ssh -T git@github.com
