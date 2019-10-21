@@ -11,8 +11,13 @@ ram is a gd boy
 8)git commit -a -m "addall"
 9)git branch firstbranch
 10 git checkout firstbranch
+11git rebase firstbranch
 <<<<<<< HEAD
 11)git merge firstbranch
 =======
 11git merge firstbranch
 >>>>>>> master
+
+
+ssh-keygen
+ssh -T git@github.com
