@@ -8,3 +8,6 @@ ram is a gd boy
 5)git add filename
 6)git commit -m "anytext"
 7)git add -A
+8)git commit -a -m "addall"
+9)git branch firstbranch
+10 git checkout firstbranch
